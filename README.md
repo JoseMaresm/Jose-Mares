@@ -1,2 +1,2 @@
-# Jose-Mares
+# JoseMaresm
 This is my personal repo forREADME
